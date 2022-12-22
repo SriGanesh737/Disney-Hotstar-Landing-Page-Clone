@@ -2,27 +2,27 @@ const movies = [
     {
         name: "falcon and the winter soldier",
         des: "ljndsj",
-        image: "images/slider 2.png"
+        image: "images/slider 2.PNG"
     },
     {
         name: "Loki",
         des: "ljndsj",
-        image: "images/slider 1.png"
+        image: "images/slider 1.PNG"
     },
     {
         name: "Wanda Vision",
         des: "ljndsj",
-        image: "images/slider 3.png"
+        image: "images/slider 3.PNG"
     },
     {
         name: "raya and the last dragon",
         des: "ljndsj",
-        image: "images/slider 4.png"
+        image: "images/slider 4.PNG"
     },
     {
         name: "luca",
         des: "ljndsj",
-        image: "images/slider 5.png"
+        image: "images/slider 5.PNG"
     }
 ];
 
